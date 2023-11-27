@@ -1,5 +1,7 @@
 # Golang Gin REST API Sample
 
+![golang workflow](https://github.com/kenfj/restapi-golang-gin/actions/workflows/go.yml/badge.svg)
+
 * based on the official sample
   - https://go.dev/doc/tutorial/web-service-gin
 
